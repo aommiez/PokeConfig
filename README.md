@@ -1,1 +1,2 @@
 # PokeConfig
+* Plz change DeviceId
